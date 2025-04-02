@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "three": "^0.175.0"
+  },
+  "name": "destination_despatcher",
+  "version": "1.0.0",
+  "description": "Digital Twin app based on three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.2.4"
+  }
+}
